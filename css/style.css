@@ -7,10 +7,7 @@ body{
 	margin: 0px;
 }
 .boton{
-border:2px solid brown;
-background:grey;
-color:rgb(200,200,200);
-border-raduis:10px;
+border-raduis:20px;
 }
 /*SOLO VALORES DE LA TABLA*/
 table{
